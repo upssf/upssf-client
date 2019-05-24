@@ -6,7 +6,7 @@ function NavBar() {
                 <div className="navbar-collapse collapse w-100 order-1 order-md-0 dual-collapse2">
                     <ul className="navbar-nav mr-auto">
                         <li className="nav-item active">
-                            <a className="nav-link" href="#">Our Mission</a>
+                            <a className="nav-link" href="/Mission">Our Mission</a>
                         </li>
                         <li className="nav-item">
                             <a className="nav-link" href="#">About Us</a>
@@ -26,7 +26,7 @@ function NavBar() {
                             <a className="nav-link" href="#">Blog</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">Contact Us</a>
+                            <a className="nav-link" href="mailto:info@upssf.org">Contact Us</a>
                         </li>
                     </ul>
                 </div>

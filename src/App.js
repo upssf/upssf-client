@@ -1,29 +1,24 @@
 import React from 'react';
-import logo from './upssf-logo.svg';
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import './App.css';
 import NavBar from "./components/navbar";
 import Footer from "./components/footer";
+import { IntlProvider, addLocaleData } from "react-intl";
+import Home from "./pages/Home";
+import Mission from "./pages/Mission";
 
 function App() {
   return (
-    <div className="App">
+    <Router>
+      <div>
       <NavBar />
-      <header className="App-header upssf-cover">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+        <Switch>
+        <Route exact path="/" component={Home} />
+        <Route exact path="/mission" component={Mission} />
+        </Switch>
       <Footer />
-    </div>
+      </div>
+    </Router>
   );
 }
 
