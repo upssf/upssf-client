@@ -15,7 +15,7 @@ function NavBar() {
                     </ul>
                 </div>
                 <div className="mx-auto order-0">
-                    <a className="navbar-brand mx-auto" href="/"><h2>U.P. Silak Silab Foundation</h2></a>
+                    <a className="navbar-brand mx-auto" href="/Home"><h2>U.P. Silak Silab Foundation</h2></a>
                     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target=".dual-collapse2">
                         <span className="navbar-toggler-icon"></span>
                     </button>
