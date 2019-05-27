@@ -11,18 +11,15 @@ class Officers extends Component {
 
     render() {
         return (
-            <div className="container my-3">
+            <div className="container mt-3 mb-5">
                 <div className="row">
                     {this.state.officers.map(officer => {
                         return (
                             <ProfileCard
                                 officer={officer}
                             />
-
                         )
-
                     })}
-
                 </div>
             </div>
         )
