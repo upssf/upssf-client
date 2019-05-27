@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Geralyn Jover-Ledesma",
+        "position": "Treasurer",
+        "image": "profilecard.jpg",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id tempus turpis, nec venenatis ipsum. Curabitur in cursus metus. Pellentesque vel tempus magna. Aenean pulvinar lorem enim. Vestibulum semper sem quis tortor condimentum efficitur. Pellentesque ac feugiat quam, ut convallis turpis. Donec tempus, orci non euismod tempor, mauris dui hendrerit."
+    },
+    {
+        "name": "Ira Escarilla-Carnate",
+        "position": "President",
+        "image": "profilecard.jpg",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id tempus turpis, nec venenatis ipsum. Curabitur in cursus metus. Pellentesque vel tempus magna. Aenean pulvinar lorem enim. Vestibulum semper sem quis tortor condimentum efficitur. Pellentesque ac feugiat quam, ut convallis turpis. Donec tempus, orci non euismod tempor, mauris dui hendrerit."
+    },
+    {
+        "name": "Gerardo Guevara",
+        "position": "Officer",
+        "image": "profilecard.jpg",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id tempus turpis, nec venenatis ipsum. Curabitur in cursus metus. Pellentesque vel tempus magna. Aenean pulvinar lorem enim. Vestibulum semper sem quis tortor condimentum efficitur. Pellentesque ac feugiat quam, ut convallis turpis. Donec tempus, orci non euismod tempor, mauris dui hendrerit."
+    },
+    {
+        "name": "Ragnar Ledesma",
+        "position": "Officer",
+        "image": "profilecard.jpg",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id tempus turpis, nec venenatis ipsum. Curabitur in cursus metus. Pellentesque vel tempus magna. Aenean pulvinar lorem enim. Vestibulum semper sem quis tortor condimentum efficitur. Pellentesque ac feugiat quam, ut convallis turpis. Donec tempus, orci non euismod tempor, mauris dui hendrerit."
+    }
+]
