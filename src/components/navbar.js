@@ -9,13 +9,10 @@ function NavBar() {
                             <a className="nav-link" href="/Mission">Our Mission</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link disabled" href="#">About Us (Coming Soon)</a>
+                            <a className="nav-link" href="/Officers">Officers</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link disabled" href="#">Officers</a>
-                        </li>
-                        <li className="nav-item">
-                            <a className="nav-link disabled" href="#">Scholars</a>
+                            <a className="nav-link" href="/Scholars">Our Scholars</a>
                         </li>
 
                     </ul>

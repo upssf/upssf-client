@@ -7,6 +7,7 @@ import Footer from "./components/footer";
 import Home from "./pages/Home";
 import Mission from "./pages/Mission";
 import Officers from "./pages/Officers";
+import Scholars from "./pages/Scholars";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         {/* <Route exact path="/Home" component={Home} /> */}
         <Route exact path="/Mission" component={Mission} />
         <Route exact path="/Officers" component={Officers} />
+        <Route exact path="/Scholars" component={Scholars} />
         </Switch>
       <Footer />
       </div>
