@@ -1,8 +1,9 @@
 import React from 'react'
 
 function NavBar() {
-        return (
-            <nav className="navbar navbar-expand-md navbar-dark bg-dark">
+    return (
+        <nav className="navbar navbar-expand-md navbar-dark bg-dark">
+            <div className="container">
                 <div className="navbar-collapse collapse w-100 order-1 order-md-0 dual-collapse2">
                     <ul className="navbar-nav mr-auto">
                         <li className="nav-item active">
@@ -29,12 +30,13 @@ function NavBar() {
                             <a className="nav-link disabled" href="#">Blog (Coming Soon)</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="mailto:info@upssf.org">Contact Us</a>
+                            <a className="nav-link" href="mailto:info@upssf.org">info@upssf.org</a>
                         </li>
                     </ul>
                 </div>
-            </nav>
-        )
+            </div>
+        </nav>
+    )
 }
 
 export default NavBar;
