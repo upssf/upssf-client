@@ -30,7 +30,7 @@ function NavBar() {
                             <a className="nav-link disabled" href="#">Blog (Coming Soon)</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="mailto:info@upssf.org">info@upssf.org</a>
+                            <a className="nav-link" href="mailto:upssfchicago@gmail.com">upssfchicago@gmail.com</a>
                         </li>
                     </ul>
                 </div>
