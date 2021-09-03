@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.414ae15a.chunk.css",
-    "main.js": "/static/js/main.52c7bc01.chunk.js",
-    "main.js.map": "/static/js/main.52c7bc01.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.95c6b1d7.chunk.js": "/static/js/2.95c6b1d7.chunk.js",
-    "static/js/2.95c6b1d7.chunk.js.map": "/static/js/2.95c6b1d7.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.a078fd593ebd4047a7034927dc24b8a9.js": "/precache-manifest.a078fd593ebd4047a7034927dc24b8a9.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.414ae15a.chunk.css.map": "/static/css/main.414ae15a.chunk.css.map",
-    "static/media/upssf-logo.svg": "/static/media/upssf-logo.b0ca977c.svg"
+    "main.css": "/upssf-client/static/css/main.414ae15a.chunk.css",
+    "main.js": "/upssf-client/static/js/main.82680d2a.chunk.js",
+    "main.js.map": "/upssf-client/static/js/main.82680d2a.chunk.js.map",
+    "runtime~main.js": "/upssf-client/static/js/runtime~main.28fb7347.js",
+    "runtime~main.js.map": "/upssf-client/static/js/runtime~main.28fb7347.js.map",
+    "static/js/2.95c6b1d7.chunk.js": "/upssf-client/static/js/2.95c6b1d7.chunk.js",
+    "static/js/2.95c6b1d7.chunk.js.map": "/upssf-client/static/js/2.95c6b1d7.chunk.js.map",
+    "index.html": "/upssf-client/index.html",
+    "precache-manifest.a91e84f23d492ab37af6fe272ea3f557.js": "/upssf-client/precache-manifest.a91e84f23d492ab37af6fe272ea3f557.js",
+    "service-worker.js": "/upssf-client/service-worker.js",
+    "static/css/main.414ae15a.chunk.css.map": "/upssf-client/static/css/main.414ae15a.chunk.css.map",
+    "static/media/upssf-logo.svg": "/upssf-client/static/media/upssf-logo.b0ca977c.svg"
   }
 }
