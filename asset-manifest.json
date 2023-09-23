@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.3deac6d8.css",
-    "main.js": "/static/js/main.83b5120f.js",
+    "main.js": "/static/js/main.63d7b671.js",
     "static/media/upssf-logo.svg": "/static/media/upssf-logo.b51ad180cd1c98915d65263b446cd966.svg",
     "index.html": "/index.html",
     "main.3deac6d8.css.map": "/static/css/main.3deac6d8.css.map",
-    "main.83b5120f.js.map": "/static/js/main.83b5120f.js.map"
+    "main.63d7b671.js.map": "/static/js/main.63d7b671.js.map"
   },
   "entrypoints": [
     "static/css/main.3deac6d8.css",
-    "static/js/main.83b5120f.js"
+    "static/js/main.63d7b671.js"
   ]
 }
