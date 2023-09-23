@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/upssf-client/static/css/main.3deac6d8.css",
-    "main.js": "/upssf-client/static/js/main.b92eb6b4.js",
-    "static/media/upssf-logo.svg": "/upssf-client/static/media/upssf-logo.b51ad180cd1c98915d65263b446cd966.svg",
-    "index.html": "/upssf-client/index.html",
-    "main.3deac6d8.css.map": "/upssf-client/static/css/main.3deac6d8.css.map",
-    "main.b92eb6b4.js.map": "/upssf-client/static/js/main.b92eb6b4.js.map"
+    "main.css": "/static/css/main.3deac6d8.css",
+    "main.js": "/static/js/main.83b5120f.js",
+    "static/media/upssf-logo.svg": "/static/media/upssf-logo.b51ad180cd1c98915d65263b446cd966.svg",
+    "index.html": "/index.html",
+    "main.3deac6d8.css.map": "/static/css/main.3deac6d8.css.map",
+    "main.83b5120f.js.map": "/static/js/main.83b5120f.js.map"
   },
   "entrypoints": [
     "static/css/main.3deac6d8.css",
-    "static/js/main.b92eb6b4.js"
+    "static/js/main.83b5120f.js"
   ]
 }
