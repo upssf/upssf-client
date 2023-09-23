@@ -6,7 +6,7 @@ function ProfileCard(props) {
         <div class="col-md-4 my-4">
             <div class="card profile-card-5">
                 <div class="card-img-block">
-                    <img class="card-img-top" src={"images/" + props.officer.image} alt="Card image cap" />
+                    <img class="card-img-top" src={"images/" + props.officer.image} alt="Card cap" />
                 </div>
                 <div class="card-body pt-0">
                     <h3 class="card-title">{props.officer.name}</h3>

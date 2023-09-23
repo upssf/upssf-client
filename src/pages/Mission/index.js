@@ -1,6 +1,4 @@
 import React, { Component } from 'react';
-import PropTypes from 'prop-types'
-import logo from './upssf-logo.svg';
 
 class Mission extends Component {
 

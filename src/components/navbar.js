@@ -26,9 +26,9 @@ function NavBar() {
                 </div>
                 <div className="navbar-collapse collapse w-100 order-3 dual-collapse2">
                     <ul className="navbar-nav ml-auto">
-                        <li className="nav-item">
+                        {/* <li className="nav-item">
                             <a className="nav-link disabled" href="#">Blog (Coming Soon)</a>
-                        </li>
+                        </li> */}
                         <li className="nav-item">
                             <a className="nav-link" href="mailto:upssfchicago@gmail.com">upssfchicago@gmail.com</a>
                         </li>
