@@ -1,6 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
+  "homepage": "https://upssf.github.io/upssf-client",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
